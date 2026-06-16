@@ -1,5 +1,5 @@
 # Obstacle Avoidance Robot
-<img width="1120" height="959" alt="Gemini_Generated_Image_n0ij34n0ij34n0ij" src="https://github.com/user-attachments/assets/3545bd8b-f28d-4c43-b28d-d275446b9c0e" />
+<img width="1120" height="876" alt="Gemini_Generated_Image_n0ij34n0ij34n0ij" src="https://github.com/user-attachments/assets/302fe20e-4547-41c9-b04e-98e6fb313e60" />
 
 Arduino-powered autonomous robot with servo-scanning ultrasonic detection and intelligent path selection. Built from scratch during a college robotics internship.
 
