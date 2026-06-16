@@ -1,4 +1,4 @@
-# 🤖 Obstacle Avoidance Robot
+# Obstacle Avoidance Robot
 
 Arduino-powered autonomous robot with servo-scanning ultrasonic detection and intelligent path selection. Built from scratch during a college robotics internship.
 
