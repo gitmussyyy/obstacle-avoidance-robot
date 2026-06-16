@@ -12,13 +12,6 @@ An **HC-SR04 ultrasonic sensor** is mounted on an **SG90 servo motor** that swee
 
 ---
 
-## 🔗 GitHub Repository
-
-> obstacle-avoidance-robot — github.com/YOUR_USERNAME
-> 
-
----
-
 ## ✨ What Makes This Different
 
 | Feature | Basic Obstacle Bot | This Robot |
