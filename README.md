@@ -189,7 +189,7 @@ void loop() {
 ---
 ## 📊 Hardware Component Map
 <img width="1120" height="959" alt="Gemini_Generated_Image_clxgu8clxgu8clxg" src="https://github.com/user-attachments/assets/93fcb41d-77ff-4a29-b4f1-f293f1028a42" />
----
+
 
 ## 🛠️ Future Improvements
 
