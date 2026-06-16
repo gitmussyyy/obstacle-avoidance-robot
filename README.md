@@ -1,4 +1,5 @@
 # Obstacle Avoidance Robot
+<img width="1120" height="959" alt="Gemini_Generated_Image_n0ij34n0ij34n0ij" src="https://github.com/user-attachments/assets/3545bd8b-f28d-4c43-b28d-d275446b9c0e" />
 
 Arduino-powered autonomous robot with servo-scanning ultrasonic detection and intelligent path selection. Built from scratch during a college robotics internship.
 
@@ -185,6 +186,9 @@ void loop() {
 - 🛸 **Mars rovers** — Perseverance uses stereo cameras for autonomous hazard detection
 - ♿ **Smart wheelchairs** — obstacle detection to assist mobility
 
+---
+## 📊 Hardware Component Map
+<img width="1120" height="959" alt="Gemini_Generated_Image_clxgu8clxgu8clxg" src="https://github.com/user-attachments/assets/93fcb41d-77ff-4a29-b4f1-f293f1028a42" />
 ---
 
 ## 🛠️ Future Improvements
